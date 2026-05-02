@@ -28,11 +28,9 @@
 ![HTML](https://img.shields.io/badge/-HTML-2980b9?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-4db6ac?style=flat-square&logo=css3&logoColor=white)
 
-### Projects
+### open source contributions
 
-### Open Source Contributions
-
-### what i'm building
+### projects
 
 - **[OpsAI](https://github.com/purva-8/OpsAI)** · [ops-ai-pi.vercel.app](https://ops-ai-pi.vercel.app) — AI systems that respond to leads instantly, eliminate manual work, and connect your tools for growing businesses
 - **[seenly](https://github.com/purva-8/seenly)** — Your Website, Built for You
@@ -67,3 +65,11 @@
 
 ![stats](https://github-readme-stats.vercel.app/api?username=purva-8&show_icons=true&theme=dark&hide_border=true&hide_title=true)
 ![streak](https://streak-stats.demolab.com?user=purva-8&theme=dark&hide_border=true)
+
+### connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purva-hk/)
+[![Twitter](https://img.shields.io/badge/--000000?style=flat-square&logo=x&logoColor=white)](https://x.com/purvahk)
+[![Email](https://img.shields.io/badge/-Mail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:purvahk08@gmail.com)
+[![Schedule](https://img.shields.io/badge/-Schedule_a_Meeting-000000?style=flat-square&logo=google-meet&logoColor=white)]( )
+
