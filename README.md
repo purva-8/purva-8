@@ -28,7 +28,9 @@
 ![HTML](https://img.shields.io/badge/-HTML-2980b9?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-4db6ac?style=flat-square&logo=css3&logoColor=white)
 
----
+## Projects
+
+### Open Source Contributions
 
 ## what i'm building
 
@@ -43,12 +45,12 @@
 
 ## where i've worked
 
-**DevRel Engineer** · ScaleDown *(Feb 2026 – present)*  
-**Founding Engineer** · Sociovate *(Sep 2025 – present)*  
-**Data Engineer** · Infolayer Ltd *(Jun 2025 – Mar 2026)*  
-**SDE Intern** · Sasefied *(Feb – May 2025)*  
-**Junior AI Specialist** · Ablelyf *(Jul 2024 – Jan 2025)*  
-**AI & Data Intern** · Deloitte *(Mar – Jun 2024)*
+**DevRel Engineer** · ScaleDown *abc*  
+**Founding Engineer** · Sociovate *abc*  
+**Data Engineer** · Infolayer Ltd *cleaned up data issues, fixed bugs, resolved tickets, and wrote docs that helped the team*  
+**SDE Intern** · Sasefied *shipped transcription and voice detection features for an ai mock interview app*  
+**Junior AI Specialist** · Ablelyf *built data pipelines and tinkered with gesture & emotion detection*  
+**AI & Data Intern** · Deloitte *built nlp pipelines for text summarization, feature extraction, and data annotation*
 
 ---
 
