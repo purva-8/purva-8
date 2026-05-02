@@ -58,21 +58,4 @@
 **Research Collaborator** · EleutherAI — Summer of Open AI Research *(Jul – Sep 2025)*  
 **Young AI Leader, Doha Hub** · AI for Good *(Apr 2025 – present)*  
 **Junior ML Engineer** · Omdena Sri Lanka Chapter *(Aug – Oct 2024)*
-
----
-
-### github
-
-![contributions](https://ghchart.rshah.org/2a9d8f/purva-8)
-
-![stats](https://github-readme-stats.vercel.app/api?username=purva-8&show_icons=true&theme=dark&hide_border=true)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purva-8&layout=compact&theme=dark&hide_border=true)
-
----
-
-### connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purva-hk/)
-[![Twitter](https://img.shields.io/badge/--000000?style=flat-square&logo=x&logoColor=white)](https://x.com/purvahk)
-[![Email](https://img.shields.io/badge/-Mail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:purvahk08@gmail.com)
-[![Schedule](https://img.shields.io/badge/-Schedule_a_Meeting-000000?style=flat-square&logo=google-meet&logoColor=white)]( )
+ 
