@@ -41,21 +41,9 @@
 
 ---
 
-### where i've worked
-
-**DevRel Engineer** · ScaleDown *building developer community, writing technical content, and growing the ecosystem*  
-**Founding Engineer** · Sociovate *building the product from zero — architecture, features, and shipping*  
-**Data Engineer** · Infolayer Ltd *cleaned up data issues, fixed bugs, resolved tickets, and wrote docs that helped the team*  
-**SDE Intern** · Sasefied *shipped transcription and voice detection features for an ai mock interview app*  
-**Junior AI Specialist** · Ablelyf *built data pipelines and tinkered with gesture & emotion detection*  
-**AI & Data Intern** · Deloitte *built nlp pipelines for text summarization, feature extraction, and data annotation*
-
----
-
 ### community & research
 
 **Research Manager** · AI-Plans *(Aug 2025 – present)*  
 **Research Collaborator** · EleutherAI — Summer of Open AI Research *(Jul – Sep 2025)*  
 **Young AI Leader, Doha Hub** · AI for Good *(Apr 2025 – present)*  
 **Junior ML Engineer** · Omdena Sri Lanka Chapter *(Aug – Oct 2024)*
- 
