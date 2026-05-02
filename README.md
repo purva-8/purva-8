@@ -1,6 +1,6 @@
-# hey, i'm purva :)
+# hey, i'm purva ✌️
 
-> builds AI/ML tools that work. research-backed, community-minded. camera in hand. snacks in pocket.
+> builds AI/ML tools that *(actually)* work. research-backed, community-minded. camera in hand. snacks in pocket :)
 
 ## stack
 
