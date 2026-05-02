@@ -2,7 +2,7 @@
 
 > builds AI/ML tools that *(actually)* work. research-backed, community-minded. camera in hand. snacks in pocket :)
 
-## stack
+### stack
 
 ![Python](https://img.shields.io/badge/-Python-2a9d8f?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-b5a48a?style=flat-square&logo=javascript&logoColor=white)
@@ -28,11 +28,11 @@
 ![HTML](https://img.shields.io/badge/-HTML-2980b9?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-4db6ac?style=flat-square&logo=css3&logoColor=white)
 
-## Projects
+### Projects
 
 ### Open Source Contributions
 
-## what i'm building
+### what i'm building
 
 - **[OpsAI](https://github.com/purva-8/OpsAI)** · [ops-ai-pi.vercel.app](https://ops-ai-pi.vercel.app) — AI systems that respond to leads instantly, eliminate manual work, and connect your tools for growing businesses
 - **[seenly](https://github.com/purva-8/seenly)** — Your Website, Built for You
@@ -43,7 +43,7 @@
 
 ---
 
-## where i've worked
+### where i've worked
 
 **DevRel Engineer** · ScaleDown *abc*  
 **Founding Engineer** · Sociovate *abc*  
@@ -54,7 +54,7 @@
 
 ---
 
-## community & research
+### community & research
 
 **Research Manager** · AI-Plans *(Aug 2025 – present)*  
 **Research Collaborator** · EleutherAI — Summer of Open AI Research *(Jul – Sep 2025)*  
@@ -63,7 +63,7 @@
 
 ---
 
-## github
+### github
 
 ![stats](https://github-readme-stats.vercel.app/api?username=purva-8&show_icons=true&theme=dark&hide_border=true&hide_title=true)
 ![streak](https://streak-stats.demolab.com?user=purva-8&theme=dark&hide_border=true)
