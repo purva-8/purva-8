@@ -28,7 +28,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### open source contributions
+---
 
 ### projects
 
@@ -43,12 +43,14 @@
 
 ### where i've worked
 
-**DevRel Engineer** · ScaleDown *abc*  
-**Founding Engineer** · Sociovate *abc*  
+**DevRel Engineer** · ScaleDown *building developer community, writing technical content, and growing the ecosystem*  
+**Founding Engineer** · Sociovate *building the product from zero — architecture, features, and shipping*  
 **Data Engineer** · Infolayer Ltd *cleaned up data issues, fixed bugs, resolved tickets, and wrote docs that helped the team*  
 **SDE Intern** · Sasefied *shipped transcription and voice detection features for an ai mock interview app*  
 **Junior AI Specialist** · Ablelyf *built data pipelines and tinkered with gesture & emotion detection*  
 **AI & Data Intern** · Deloitte *built nlp pipelines for text summarization, feature extraction, and data annotation*
+
+---
 
 ### community & research
 
@@ -57,9 +59,16 @@
 **Young AI Leader, Doha Hub** · AI for Good *(Apr 2025 – present)*  
 **Junior ML Engineer** · Omdena Sri Lanka Chapter *(Aug – Oct 2024)*
 
+---
+
+### github
+
+![contributions](https://ghchart.rshah.org/2a9d8f/purva-8)
+
 ![stats](https://github-readme-stats.vercel.app/api?username=purva-8&show_icons=true&theme=dark&hide_border=true)
-![streak](https://streak-stats.demolab.com?user=purva-8&theme=dark&hide_border=true)
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purva-8&layout=compact&theme=dark&hide_border=true)
+
+---
 
 ### connect
 
@@ -67,4 +76,3 @@
 [![Twitter](https://img.shields.io/badge/--000000?style=flat-square&logo=x&logoColor=white)](https://x.com/purvahk)
 [![Email](https://img.shields.io/badge/-Mail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:purvahk08@gmail.com)
 [![Schedule](https://img.shields.io/badge/-Schedule_a_Meeting-000000?style=flat-square&logo=google-meet&logoColor=white)]( )
-
