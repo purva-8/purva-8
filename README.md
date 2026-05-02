@@ -1,4 +1,4 @@
-# hi, i'm purva 👋
+# hey, i'm purva :)
 
 **AI Engineer · AI Researcher · Founding Engineer**  
 AI Safety & Responsible AI · BCA Honors in AI & ML
