@@ -1,10 +1,34 @@
 # hey, i'm purva :)
 
-**AI Engineer · AI Researcher**
-
+---
+*builds AI/ML tools that work. research-backed, community-minded. camera in hand. snacks in pocket.*
 ---
 
-*builds AI/ML tools that work. research-backed, community-minded. camera in hand. snacks in pocket.*
+## stack
+
+![Python](https://img.shields.io/badge/-Python-2a9d8f?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-b5a48a?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-2c5282?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4a5568?style=flat-square&logo=postgresql&logoColor=white)
+![pandas](https://img.shields.io/badge/-pandas-1a8a7a?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-3a6b9e?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-0f766e?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-a09070?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-4a90b8?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-3d4452?style=flat-square&logo=keras&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-8c7b68?style=flat-square&logo=huggingface&logoColor=white)
+![spaCy](https://img.shields.io/badge/-spaCy-0d9488?style=flat-square&logo=spacy&logoColor=white)
+![NLTK](https://img.shields.io/badge/-NLTK-606878?style=flat-square&logoColor=white)
+![Gensim](https://img.shields.io/badge/-Gensim-1e3a5f?style=flat-square&logoColor=white)
+![FastText](https://img.shields.io/badge/-FastText-9e8e78?style=flat-square&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-2d3748?style=flat-square&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-26a69a?style=flat-square&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5b8db8?style=flat-square&logo=opencv&logoColor=white)
+![Pillow](https://img.shields.io/badge/-Pillow-c4b49a?style=flat-square&logoColor=white)
+![React](https://img.shields.io/badge/-React-1a6b8a?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-718096?style=flat-square&logo=nextdotjs&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-2980b9?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-4db6ac?style=flat-square&logo=css3&logoColor=white)
 
 ---
 
@@ -36,34 +60,6 @@
 **Research Collaborator** · EleutherAI — Summer of Open AI Research *(Jul – Sep 2025)*  
 **Young AI Leader, Doha Hub** · AI for Good *(Apr 2025 – present)*  
 **Junior ML Engineer** · Omdena Sri Lanka Chapter *(Aug – Oct 2024)*
-
----
-
-## stack
-
-![Python](https://img.shields.io/badge/-Python-2a9d8f?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-b5a48a?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-2c5282?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4a5568?style=flat-square&logo=postgresql&logoColor=white)
-![pandas](https://img.shields.io/badge/-pandas-1a8a7a?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-3a6b9e?style=flat-square&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-0f766e?style=flat-square&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-a09070?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-4a90b8?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-3d4452?style=flat-square&logo=keras&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-8c7b68?style=flat-square&logo=huggingface&logoColor=white)
-![spaCy](https://img.shields.io/badge/-spaCy-0d9488?style=flat-square&logo=spacy&logoColor=white)
-![NLTK](https://img.shields.io/badge/-NLTK-606878?style=flat-square&logoColor=white)
-![Gensim](https://img.shields.io/badge/-Gensim-1e3a5f?style=flat-square&logoColor=white)
-![FastText](https://img.shields.io/badge/-FastText-9e8e78?style=flat-square&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-2d3748?style=flat-square&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-26a69a?style=flat-square&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5b8db8?style=flat-square&logo=opencv&logoColor=white)
-![Pillow](https://img.shields.io/badge/-Pillow-c4b49a?style=flat-square&logoColor=white)
-![React](https://img.shields.io/badge/-React-1a6b8a?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-718096?style=flat-square&logo=nextdotjs&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-2980b9?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-4db6ac?style=flat-square&logo=css3&logoColor=white)
 
 ---
 
