@@ -1,14 +1,10 @@
 # hey, i'm purva :)
 
-**AI Engineer · AI Researcher · Founding Engineer**  
-AI Safety & Responsible AI · BCA Honors in AI & ML
-
-📍 Al Wakrah, Qatar &nbsp;·&nbsp; [purvahk.com](https://purvahk.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/purva-hk/)
+**AI Engineer · AI Researcher · Building web, apps, bots, APIs, and everything in between**  
 
 ---
 
-builds AI/ML tools that work. research-backed, community-minded.  
-*camera in hand. snacks in pocket.*
+*builds AI/ML tools that work. research-backed, community-minded. camera in hand. snacks in pocket.*
 
 ---
 
