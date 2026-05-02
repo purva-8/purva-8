@@ -50,8 +50,6 @@
 **Junior AI Specialist** · Ablelyf *built data pipelines and tinkered with gesture & emotion detection*  
 **AI & Data Intern** · Deloitte *built nlp pipelines for text summarization, feature extraction, and data annotation*
 
----
-
 ### community & research
 
 **Research Manager** · AI-Plans *(Aug 2025 – present)*  
@@ -59,12 +57,9 @@
 **Young AI Leader, Doha Hub** · AI for Good *(Apr 2025 – present)*  
 **Junior ML Engineer** · Omdena Sri Lanka Chapter *(Aug – Oct 2024)*
 
----
-
-### github
-
-![stats](https://github-readme-stats.vercel.app/api?username=purva-8&show_icons=true&theme=dark&hide_border=true&hide_title=true)
+![stats](https://github-readme-stats.vercel.app/api?username=purva-8&show_icons=true&theme=dark&hide_border=true)
 ![streak](https://streak-stats.demolab.com?user=purva-8&theme=dark&hide_border=true)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purva-8&layout=compact&theme=dark&hide_border=true)
 
 ### connect
 
