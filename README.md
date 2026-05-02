@@ -71,10 +71,3 @@
 
 ![stats](https://github-readme-stats.vercel.app/api?username=purva-8&show_icons=true&theme=dark&hide_border=true&hide_title=true)
 ![streak](https://streak-stats.demolab.com?user=purva-8&theme=dark&hide_border=true)
-
----
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purva-hk/)
-[![Portfolio](https://img.shields.io/badge/purvahk.com-000?style=flat&logo=vercel&logoColor=white)](https://purvahk.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/purvahk)
-[![Email](https://img.shields.io/badge/purvahk08@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:purvahk08@gmail.com)
